@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+# Interested in dataviz, AI, creative coding
+
 <!--
 **krsfr/krsfr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
